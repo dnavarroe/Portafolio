@@ -1,5 +1,12 @@
 # Portafolio Daniel Navarro
 
+## Codigos:
+[**Anime y Manga**](https://github.com/dnavarroe/mangaandanime)
+[**Movies**](https://github.com/dnavarroe/peliculas)
+[**Login Product**](https://github.com/dnavarroe/productos-app)
+[**Diseños**](https://github.com/dnavarroe/dise-obasico)
+[**Qr scaner**](https://github.com/dnavarroe/qr-scaner)
+[**Drawer and Preferences User**](https://github.com/dnavarroe/Preferences-user)
 ## Go all in
 
 To build and run this project:
