@@ -27,6 +27,6 @@ To build and run this project:
 | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------|
 | <img src="https://media.giphy.com/media/Ch10brkYSlALCt8D8v/giphy.gif" width="250">        | <img src="https://media.giphy.com/media/6JebNSNk7q6U6hP0Yk/giphy.gif" width="250">          |
 
-| [**QR Scaner**](https://media.giphy.com/media/L8drI46BWveDrlHtoB/giphy.gif)               | [**TETRIS SOON**]()           |
-| ----------------------------------------------------------------------------------------- | ------------------------------|
-| <img src="https://media.giphy.com/media/L8drI46BWveDrlHtoB/giphy.gif" width="250">        | <img src="" width="250">      |
+| [**QR Scaner**](https://media.giphy.com/media/L8drI46BWveDrlHtoB/giphy.gif)               | 
+| ----------------------------------------------------------------------------------------- | 
+| <img src="https://media.giphy.com/media/L8drI46BWveDrlHtoB/giphy.gif" width="250">        |
