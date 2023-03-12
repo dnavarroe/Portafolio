@@ -15,11 +15,8 @@ To build and run this project:
 
 | [**Anime y Manga**](https://media.giphy.com/media/PfgGQ2reeoNdBoNzwG/giphy.gif)          | [**Movies**](https://media.giphy.com/media/EkcA6DvXpxsYYphxSF/giphy.gif)           |
 | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| <img src="https://media.giphy.com/media/PfgGQ2reeoNdBoNzwG/giphy.gif" width="250">       | <img src="https://media.giphy.com/media/EkcA6DvXpxsYYphxSF/giphy.gif" width="250"> |
+| <img src="https://media.giphy.com/media/L8drI46BWveDrlHtoB/giphy.gif" width="250">       | <img src="https://media.giphy.com/media/EkcA6DvXpxsYYphxSF/giphy.gif" width="250"> |
 
-| [**Drawer and Preferences User**](https://media.giphy.com/media/PfgGQ2reeoNdBoNzwG/giphy.gif)             | [**GridView**](https://media.giphy.com/media/EkcA6DvXpxsYYphxSF/giphy.gif)         |
-| --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |          
-| <img src="https://media.giphy.com/media/PfgGQ2reeoNdBoNzwG/giphy.gif" width="250">                        | <img src="https://media.giphy.com/media/EkcA6DvXpxsYYphxSF/giphy.gif" width="250"> |
 
 | [**Drawer and Preferences User**](https://media.giphy.com/media/TEE7B37t5E53kVYVgZ/giphy.gif)             | [**GridView**](https://media.giphy.com/media/CZSYb13g6gNC9SkalA/giphy.gif)         |
 | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |          
