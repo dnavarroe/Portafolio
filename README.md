@@ -17,9 +17,9 @@ To build and run this project:
 | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | <img src="https://media.giphy.com/media/PfgGQ2reeoNdBoNzwG/giphy.gif" width="250">       | <img src="https://media.giphy.com/media/EkcA6DvXpxsYYphxSF/giphy.gif" width="250"> |
 
-| [**Drawer and Preferences User**](https://media.giphy.com/media/TEE7B37t5E53kVYVgZ/giphy.gif)             | [**GridView**](https://media.giphy.com/media/CZSYb13g6gNC9SkalA/giphy.gif)         |
+| [**Drawer and Preferences User**](https://media.giphy.com/media/PfgGQ2reeoNdBoNzwG/giphy.gif)             | [**GridView**](https://media.giphy.com/media/EkcA6DvXpxsYYphxSF/giphy.gif)         |
 | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |          
-| <img src="https://media.giphy.com/media/TEE7B37t5E53kVYVgZ/giphy.gif" width="250">                        | <img src="https://media.giphy.com/media/CZSYb13g6gNC9SkalA/giphy.gif" width="250"> |
+| <img src="https://media.giphy.com/media/PfgGQ2reeoNdBoNzwG/giphy.gif" width="250">                        | <img src="https://media.giphy.com/media/EkcA6DvXpxsYYphxSF/giphy.gif" width="250"> |
 
 | [**Drawer and Preferences User**](https://media.giphy.com/media/TEE7B37t5E53kVYVgZ/giphy.gif)             | [**GridView**](https://media.giphy.com/media/CZSYb13g6gNC9SkalA/giphy.gif)         |
 | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |          
