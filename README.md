@@ -6,7 +6,9 @@
 [**Login Product,**](https://github.com/dnavarroe/productos-app)
 [**Diseños,**](https://github.com/dnavarroe/dise-obasico)
 [**Qr scaner,**](https://github.com/dnavarroe/qr-scaner)
-[**Drawer and Preferences User**](https://github.com/dnavarroe/Preferences-user)
+[**Drawer and Preferences User,**](https://github.com/dnavarroe/Preferences-user)
+[**Chat firebase,**](https://github.com/dnavarroe/chat-groups-firebase)
+[**Chat flutter backend local**](https://github.com/dnavarroe/flutter-chat-app)
 ## Go all in
 
 To build and run this project:
