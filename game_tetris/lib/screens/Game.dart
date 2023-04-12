@@ -123,7 +123,7 @@ class _GameState extends State<Game> {
   void starGame(){
     setState(() {});
     piezaEnJuego = newPieza();
-    const duration = Duration( milliseconds: 300);
+    const duration = Duration( milliseconds: 100);
     Timer.periodic(
       duration, (Timer timer) { 
         if(hitFloor()==false){
