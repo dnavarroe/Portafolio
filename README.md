@@ -37,3 +37,33 @@ To build and run this project:
 | [**QR Scaner**](https://media.giphy.com/media/L8drI46BWveDrlHtoB/giphy.gif)               | 
 | ----------------------------------------------------------------------------------------- | 
 | <img src="https://media.giphy.com/media/L8drI46BWveDrlHtoB/giphy.gif" width="250">        |
+
+| [**Copy shop adidas design**](https://media.giphy.com/media/gnvEQ7dIeY84dn3ABc/giphy.gif) | 
+| ----------------------------------------------------------------------------------------- | 
+| <img src="https://media.giphy.com/media/gnvEQ7dIeY84dn3ABc/giphy.gif" width="250">        |
+
+| [**News app**](https://media.giphy.com/media/YdkYjDfslDOcTMvrvT/giphy.gif)                | 
+| ----------------------------------------------------------------------------------------- | 
+| <img src="https://media.giphy.com/media/YdkYjDfslDOcTMvrvT/giphy.gif" width="250">        |
+
+| [**Dising responsive**](https://media.giphy.com/media/2TdnPY794ObjE420vP/giphy.gif)       | 
+| ----------------------------------------------------------------------------------------- | 
+| <img src="https://media.giphy.com/media/2TdnPY794ObjE420vP/giphy.gif" width="250">        |
+
+| [**Group chat with firebase**](https://media.giphy.com/media/6oQfwRIHDqHThjgwAD/giphy.gif)| 
+| ----------------------------------------------------------------------------------------- | 
+| <img src="https://media.giphy.com/media/6oQfwRIHDqHThjgwAD/giphy.gif" width="250">        |
+
+| [**Chat with local backend**](https://media.giphy.com/media/TYioGD9dWnd5qxycRy/giphy.gif) | 
+| ----------------------------------------------------------------------------------------- | 
+| <img src="https://media.giphy.com/media/TYioGD9dWnd5qxycRy/giphy.gif" width="250">        |
+
+| [**Login with local backend**](https://media.giphy.com/media/TYioGD9dWnd5qxycRy/giphy.gif)| 
+| ----------------------------------------------------------------------------------------- | 
+| <img src="https://media.giphy.com/media/TYioGD9dWnd5qxycRy/giphy.gif" width="250">        |
+
+
+
+
+
+
