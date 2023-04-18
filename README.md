@@ -9,6 +9,8 @@
 [**Drawer and Preferences User,**](https://github.com/dnavarroe/Preferences-user)
 [**Chat firebase,**](https://github.com/dnavarroe/chat-groups-firebase)
 [**Chat flutter backend local**](https://github.com/dnavarroe/flutter-chat-app)
+[**Pokedex,**](https://github.com/dnavarroe/Pokedex)
+[**Clima app**](https://github.com/dnavarroe/TimeApp)
 ## Go all in
 
 To build and run this project:
@@ -47,6 +49,10 @@ To build and run this project:
 | [**Group chat with firebase**](https://media.giphy.com/media/6oQfwRIHDqHThjgwAD/giphy.gif)          | [**Chat with local backend**](https://media.giphy.com/media/TYioGD9dWnd5qxycRy/giphy.gif)           |
 | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------|
 | <img src="https://media.giphy.com/media/6oQfwRIHDqHThjgwAD/giphy.gif" width="250">        | <img src="https://media.giphy.com/media/TYioGD9dWnd5qxycRy/giphy.gif" width="250">          |
+
+| [**Pokedex**](https://media.giphy.com/media/8jk6z7CpdzNpbbaSsE/giphy.gif)          | [**Clima App**](https://media.giphy.com/media/dV7zsLgkg9dk4mMNeg/giphy.gif)           |
+| ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------|
+| <img src="https://media.giphy.com/media/8jk6z7CpdzNpbbaSsE/giphy.gif" width="250">        | <img src="https://media.giphy.com/media/dV7zsLgkg9dk4mMNeg/giphy.gif" width="250">          |
 
 
 | [**Login with local backend**](https://media.giphy.com/media/xAQbevIYpGQmdpN8wK/giphy.gif)| 
